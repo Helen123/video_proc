@@ -1,2 +1,2 @@
 # video_proc
-Testing of processing and running algos on videos.
+Testing of processing and running algos on videos.OPENCV
